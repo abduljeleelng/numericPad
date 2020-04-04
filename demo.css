@@ -1,0 +1,13 @@
+.button{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    align-items: center;
+    margin-left: 10;
+    margin: 5;
+    align-content: center;
+    border-radius:10px;
+    border-color: blue;
+    border-width: 2;
+    text-align: center;
+}
